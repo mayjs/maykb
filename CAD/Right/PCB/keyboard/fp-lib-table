@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name Switch_Keyboard_Cherry_MX)(type KiCad)(uri ${KIPRJMOD}/libs/keyswitch-kicad-library/modules/Switch_Keyboard_Cherry_MX.pretty)(options "")(descr ""))
+  (lib (name Switch_Keyboard_Alps_Matias)(type KiCad)(uri ${KIPRJMOD}/libs/keyswitch-kicad-library/modules/Switch_Keyboard_Alps_Matias.pretty)(options "")(descr ""))
+  (lib (name Switch_Keyboard_Hybrid)(type KiCad)(uri ${KIPRJMOD}/libs/keyswitch-kicad-library/modules/Switch_Keyboard_Hybrid.pretty)(options "")(descr ""))
+  (lib (name Mounting_Keyboard_Stabilizer)(type KiCad)(uri ${KIPRJMOD}/libs/keyswitch-kicad-library/modules/Mounting_Keyboard_Stabilizer.pretty)(options "")(descr ""))
+  (lib (name "RP Pico")(type KiCad)(uri /home/may/repos/RP_Silicon_KiCad/KiCadLibraries/MCU_RaspberryPi_and_Boards.pretty)(options "")(descr ""))
+  (lib (name "Random Keyboard Parts")(type KiCad)(uri /home/may/Projects/keyboards/Gen2/CAD/random-keyboard-parts.pretty)(options "")(descr ""))
+)

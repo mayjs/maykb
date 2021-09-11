@@ -1,0 +1,134 @@
+12:32:02: User layout: {'meta': {'author': '', 'backcolor': '#eeeeee', 'background': {'name': '', 'style': ''}, 'name': '', 'notes': '', 'radii': '', 'switchBrand': '', 'switchMount': '', 'switchType': ''}, 'keys': [{'color': '#cccccc', 'labels': ['0,0'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 0, 'y': 0, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['0,1'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 1, 'y': 0, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['0,2'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 2, 'y': 0, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['0,3'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 3, 'y': 0, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['0,4'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 4, 'y': 0, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['0,5'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 5, 'y': 0, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['0,6'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 6, 'y': 0, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['1,0'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 0, 'y': 1, 'width': 1.5, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1.5, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['1,2'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 1.5, 'y': 1, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['1,3'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 2.5, 'y': 1, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['1,4'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 3.5, 'y': 1, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['1,5'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 4.5, 'y': 1, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['1,6'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 5.5, 'y': 1, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['1,7'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 6.5, 'y': 1, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['2,0'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 0, 'y': 2, 'width': 1.75, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1.75, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['2,2'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 1.75, 'y': 2, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['2,3'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 2.75, 'y': 2, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['2,4'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 3.75, 'y': 2, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['2,5'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 4.75, 'y': 2, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['2,6'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 5.75, 'y': 2, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['2,7'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 6.75, 'y': 2, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['3,0'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 0, 'y': 3, 'width': 1.25, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1.25, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['3,1'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 1.25, 'y': 3, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['3,2'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 2.25, 'y': 3, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['3,3'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 3.25, 'y': 3, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['3,4'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 4.25, 'y': 3, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['3,5'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 5.25, 'y': 3, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['3,6'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 6.25, 'y': 3, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['4,0'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 0, 'y': 4, 'width': 1.25, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1.25, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['4,1'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 1.25, 'y': 4, 'width': 1.25, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1.25, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['4,3'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 2.5, 'y': 4, 'width': 1.25, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1.25, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['4,4'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 3.75, 'y': 4, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['4,5'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 4.75, 'y': 4, 'width': 2.25, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 2.25, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}]}
+12:32:02: Searching for SW1 module
+12:32:02: Setting SW1 module position: (34525000, 34525000)
+12:32:02: Searching for D1 module
+12:32:02: Setting D1 module position: (39605000, 37555000)
+12:32:02: Searching for SW2 module
+12:32:02: Setting SW2 module position: (53575000, 34525000)
+12:32:02: Searching for D2 module
+12:32:02: Setting D2 module position: (58655000, 37555000)
+12:32:02: Searching for SW3 module
+12:32:02: Setting SW3 module position: (72625000, 34525000)
+12:32:02: Searching for D3 module
+12:32:02: Setting D3 module position: (77705000, 37555000)
+12:32:02: Searching for SW4 module
+12:32:02: Setting SW4 module position: (91675000, 34525000)
+12:32:02: Searching for D4 module
+12:32:02: Setting D4 module position: (96755000, 37555000)
+12:32:02: Searching for SW5 module
+12:32:02: Setting SW5 module position: (110725000, 34525000)
+12:32:02: Searching for D5 module
+12:32:02: Setting D5 module position: (115805000, 37555000)
+12:32:02: Searching for SW6 module
+12:32:02: Setting SW6 module position: (129775000, 34525000)
+12:32:02: Searching for D6 module
+12:32:02: Setting D6 module position: (134855000, 37555000)
+12:32:02: Searching for SW7 module
+12:32:02: Setting SW7 module position: (148825000, 34525000)
+12:32:02: Searching for D7 module
+12:32:02: Setting D7 module position: (153905000, 37555000)
+12:32:02: Searching for SW8 module
+12:32:02: Setting SW8 module position: (39287500, 53575000)
+12:32:02: Searching for D8 module
+12:32:02: Setting D8 module position: (44367500, 56605000)
+12:32:02: Searching for SW9 module
+12:32:02: Setting SW9 module position: (63100000, 53575000)
+12:32:02: Searching for D9 module
+12:32:02: Setting D9 module position: (68180000, 56605000)
+12:32:02: Searching for SW10 module
+12:32:02: Setting SW10 module position: (82150000, 53575000)
+12:32:02: Searching for D10 module
+12:32:02: Setting D10 module position: (87230000, 56605000)
+12:32:02: Searching for SW11 module
+12:32:02: Setting SW11 module position: (101200000, 53575000)
+12:32:02: Searching for D11 module
+12:32:02: Setting D11 module position: (106280000, 56605000)
+12:32:02: Searching for SW12 module
+12:32:02: Setting SW12 module position: (120250000, 53575000)
+12:32:02: Searching for D12 module
+12:32:02: Setting D12 module position: (125330000, 56605000)
+12:32:02: Searching for SW13 module
+12:32:02: Setting SW13 module position: (139300000, 53575000)
+12:32:02: Searching for D13 module
+12:32:02: Setting D13 module position: (144380000, 56605000)
+12:32:02: Searching for SW14 module
+12:32:02: Setting SW14 module position: (158350000, 53575000)
+12:32:02: Searching for D14 module
+12:32:02: Setting D14 module position: (163430000, 56605000)
+12:32:02: Searching for SW15 module
+12:32:02: Setting SW15 module position: (41668750, 72625000)
+12:32:02: Searching for D15 module
+12:32:02: Setting D15 module position: (46748750, 75655000)
+12:32:02: Searching for SW16 module
+12:32:02: Setting SW16 module position: (67862500, 72625000)
+12:32:02: Searching for D16 module
+12:32:02: Setting D16 module position: (72942500, 75655000)
+12:32:02: Searching for SW17 module
+12:32:02: Setting SW17 module position: (86912500, 72625000)
+12:32:02: Searching for D17 module
+12:32:02: Setting D17 module position: (91992500, 75655000)
+12:32:02: Searching for SW18 module
+12:32:02: Setting SW18 module position: (105962500, 72625000)
+12:32:02: Searching for D18 module
+12:32:02: Setting D18 module position: (111042500, 75655000)
+12:32:02: Searching for SW19 module
+12:32:02: Setting SW19 module position: (125012500, 72625000)
+12:32:02: Searching for D19 module
+12:32:02: Setting D19 module position: (130092500, 75655000)
+12:32:02: Searching for SW20 module
+12:32:02: Setting SW20 module position: (144062500, 72625000)
+12:32:02: Searching for D20 module
+12:32:02: Setting D20 module position: (149142500, 75655000)
+12:32:02: Searching for SW21 module
+12:32:02: Setting SW21 module position: (163112500, 72625000)
+12:32:02: Searching for D21 module
+12:32:02: Setting D21 module position: (168192500, 75655000)
+12:32:02: Searching for SW22 module
+12:32:02: Setting SW22 module position: (36906250, 91675000)
+12:32:02: Searching for D22 module
+12:32:02: Setting D22 module position: (41986250, 94705000)
+12:32:02: Searching for SW23 module
+12:32:02: Setting SW23 module position: (58337500, 91675000)
+12:32:02: Searching for D23 module
+12:32:02: Setting D23 module position: (63417500, 94705000)
+12:32:02: Searching for SW24 module
+12:32:02: Setting SW24 module position: (77387500, 91675000)
+12:32:02: Searching for D24 module
+12:32:02: Setting D24 module position: (82467500, 94705000)
+12:32:02: Searching for SW25 module
+12:32:02: Setting SW25 module position: (96437500, 91675000)
+12:32:02: Searching for D25 module
+12:32:02: Setting D25 module position: (101517500, 94705000)
+12:32:02: Searching for SW26 module
+12:32:02: Setting SW26 module position: (115487500, 91675000)
+12:32:02: Searching for D26 module
+12:32:02: Setting D26 module position: (120567500, 94705000)
+12:32:02: Searching for SW27 module
+12:32:02: Setting SW27 module position: (134537500, 91675000)
+12:32:02: Searching for D27 module
+12:32:02: Setting D27 module position: (139617500, 94705000)
+12:32:02: Searching for SW28 module
+12:32:02: Setting SW28 module position: (153587500, 91675000)
+12:32:02: Searching for D28 module
+12:32:02: Setting D28 module position: (158667500, 94705000)
+12:32:02: Searching for SW29 module
+12:32:02: Setting SW29 module position: (36906250, 110725000)
+12:32:02: Searching for D29 module
+12:32:02: Setting D29 module position: (41986250, 113755000)
+12:32:02: Searching for SW30 module
+12:32:02: Setting SW30 module position: (60718750, 110725000)
+12:32:02: Searching for D30 module
+12:32:02: Setting D30 module position: (65798750, 113755000)
+12:32:02: Searching for SW31 module
+12:32:02: Setting SW31 module position: (84531250, 110725000)
+12:32:02: Searching for D31 module
+12:32:02: Setting D31 module position: (89611250, 113755000)
+12:32:02: Searching for SW32 module
+12:32:02: Setting SW32 module position: (105962500, 110725000)
+12:32:02: Searching for D32 module
+12:32:02: Setting D32 module position: (111042500, 113755000)
+12:32:02: Searching for SW33 module
+12:32:02: Setting SW33 module position: (136918750, 110725000)
+12:32:02: Setting ST33 module position: (136918750, 110725000)
+12:32:02: Searching for D33 module
+12:32:02: Setting D33 module position: (141998750, 113755000)

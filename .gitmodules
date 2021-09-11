@@ -1,0 +1,9 @@
+[submodule "CAD/random-keyboard-parts.pretty"]
+	path = CAD/random-keyboard-parts.pretty
+	url = ../random-keyboard-parts.pretty.git
+[submodule "CAD/Left/PCB/keyboard/libs/keyswitch-kicad-library"]
+	path = CAD/Left/PCB/keyboard/libs/keyswitch-kicad-library
+	url = ../keyswitch-kicad-library.git
+[submodule "CAD/Right/PCB/keyboard/libs/keyswitch-kicad-library"]
+	path = CAD/Right/PCB/keyboard/libs/keyswitch-kicad-library
+	url = ../keyswitch-kicad-library.git

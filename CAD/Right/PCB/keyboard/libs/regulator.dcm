@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LN1154
+D Linear Voltage Regulator 3.3V
+K Regulator,Linear
+F http://www.natlinear.com/uploadfiles/LNXT/LN1154_E.pdf
+$ENDCMP
+#
+#End Doc Library

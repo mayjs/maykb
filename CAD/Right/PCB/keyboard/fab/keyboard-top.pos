@@ -1,0 +1,9 @@
+### Module positions - created on Thu Jul 29 22:54:49 2021 ###
+### Printed by Pcbnew version kicad 5.1.10
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                                             PosX       PosY       Rot  Side
+LD1       LED       LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder    50.6760   -58.0900   90.0000  top
+LD2       LED       LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder    60.6760   -58.0900   90.0000  top
+LD3       LED       LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder    70.6760   -58.0900   90.0000  top
+## End

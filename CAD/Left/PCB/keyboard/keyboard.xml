@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/kicad/.local/bin/kle2netlist</source>
+    <date>08/01/2021 12:32 PM</date>
+    <tool>SKiDL (0.0.30)</tool>
+  </design>
+  <components>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D1">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D2">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D3">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D4">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW5">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D5">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW6">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D6">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW7">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D7">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW8">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.50u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D8">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW9">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D9">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW10">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D10">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW11">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D11">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW12">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D12">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW13">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D13">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW14">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D14">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW15">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.75u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D15">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW16">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D16">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW17">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D17">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW18">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D18">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW19">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D19">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW20">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D20">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW21">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D21">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW22">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.25u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D22">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW23">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D23">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW24">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D24">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW25">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D25">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW26">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D26">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW27">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D27">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW28">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D28">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW29">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.25u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D29">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW30">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.25u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D30">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW31">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.25u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D31">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW32">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D32">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="SW33">
+      <value>SW_Push</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_2.25u</footprint>
+      <fields>
+        (field (name F0) SW)
+        (field (name F1) SW_Push)
+      </fields>
+      <libsource lib="Switch" part="SW_Push"/>
+    </comp>
+    <comp ref="D33">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <fields>
+        (field (name F0) D)
+        (field (name F1) D)
+      </fields>
+      <libsource lib="Device" part="D"/>
+    </comp>
+    <comp ref="ST33">
+      <value>MountingHole</value>
+      <footprint>Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2u</footprint>
+      <fields>
+        (field (name F0) H)
+        (field (name F1) MountingHole)
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole"/>
+    </comp>
+  </components>
+  <nets>
+    <net code="0" name="ROW0">
+      <node ref="D3" pin="1"/>
+      <node ref="D5" pin="1"/>
+      <node ref="D1" pin="1"/>
+      <node ref="D6" pin="1"/>
+      <node ref="D7" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="D2" pin="1"/>
+    </net>
+    <net code="1" name="COL0">
+      <node ref="SW8" pin="1"/>
+      <node ref="SW22" pin="1"/>
+      <node ref="SW29" pin="1"/>
+      <node ref="SW15" pin="1"/>
+      <node ref="SW1" pin="1"/>
+    </net>
+    <net code="2" name="N$1">
+      <node ref="SW1" pin="2"/>
+      <node ref="D1" pin="2"/>
+    </net>
+    <net code="3" name="COL1">
+      <node ref="SW23" pin="1"/>
+      <node ref="SW2" pin="1"/>
+      <node ref="SW30" pin="1"/>
+    </net>
+    <net code="4" name="N$2">
+      <node ref="D2" pin="2"/>
+      <node ref="SW2" pin="2"/>
+    </net>
+    <net code="5" name="COL2">
+      <node ref="SW3" pin="1"/>
+      <node ref="SW9" pin="1"/>
+      <node ref="SW24" pin="1"/>
+      <node ref="SW16" pin="1"/>
+    </net>
+    <net code="6" name="N$3">
+      <node ref="D3" pin="2"/>
+      <node ref="SW3" pin="2"/>
+    </net>
+    <net code="7" name="COL3">
+      <node ref="SW4" pin="1"/>
+      <node ref="SW10" pin="1"/>
+      <node ref="SW31" pin="1"/>
+      <node ref="SW17" pin="1"/>
+      <node ref="SW25" pin="1"/>
+    </net>
+    <net code="8" name="N$4">
+      <node ref="SW4" pin="2"/>
+      <node ref="D4" pin="2"/>
+    </net>
+    <net code="9" name="COL4">
+      <node ref="SW18" pin="1"/>
+      <node ref="SW11" pin="1"/>
+      <node ref="SW32" pin="1"/>
+      <node ref="SW5" pin="1"/>
+      <node ref="SW26" pin="1"/>
+    </net>
+    <net code="10" name="N$5">
+      <node ref="SW5" pin="2"/>
+      <node ref="D5" pin="2"/>
+    </net>
+    <net code="11" name="COL5">
+      <node ref="SW6" pin="1"/>
+      <node ref="SW33" pin="1"/>
+      <node ref="SW19" pin="1"/>
+      <node ref="SW27" pin="1"/>
+      <node ref="SW12" pin="1"/>
+    </net>
+    <net code="12" name="N$6">
+      <node ref="D6" pin="2"/>
+      <node ref="SW6" pin="2"/>
+    </net>
+    <net code="13" name="COL6">
+      <node ref="SW7" pin="1"/>
+      <node ref="SW20" pin="1"/>
+      <node ref="SW28" pin="1"/>
+      <node ref="SW13" pin="1"/>
+    </net>
+    <net code="14" name="N$7">
+      <node ref="SW7" pin="2"/>
+      <node ref="D7" pin="2"/>
+    </net>
+    <net code="15" name="ROW1">
+      <node ref="D8" pin="1"/>
+      <node ref="D12" pin="1"/>
+      <node ref="D10" pin="1"/>
+      <node ref="D14" pin="1"/>
+      <node ref="D13" pin="1"/>
+      <node ref="D11" pin="1"/>
+      <node ref="D9" pin="1"/>
+    </net>
+    <net code="16" name="N$8">
+      <node ref="D8" pin="2"/>
+      <node ref="SW8" pin="2"/>
+    </net>
+    <net code="17" name="N$9">
+      <node ref="D9" pin="2"/>
+      <node ref="SW9" pin="2"/>
+    </net>
+    <net code="18" name="N$10">
+      <node ref="D10" pin="2"/>
+      <node ref="SW10" pin="2"/>
+    </net>
+    <net code="19" name="N$11">
+      <node ref="SW11" pin="2"/>
+      <node ref="D11" pin="2"/>
+    </net>
+    <net code="20" name="N$12">
+      <node ref="D12" pin="2"/>
+      <node ref="SW12" pin="2"/>
+    </net>
+    <net code="21" name="N$13">
+      <node ref="SW13" pin="2"/>
+      <node ref="D13" pin="2"/>
+    </net>
+    <net code="22" name="COL7">
+      <node ref="SW14" pin="1"/>
+      <node ref="SW21" pin="1"/>
+    </net>
+    <net code="23" name="N$14">
+      <node ref="D14" pin="2"/>
+      <node ref="SW14" pin="2"/>
+    </net>
+    <net code="24" name="ROW2">
+      <node ref="D20" pin="1"/>
+      <node ref="D18" pin="1"/>
+      <node ref="D16" pin="1"/>
+      <node ref="D15" pin="1"/>
+      <node ref="D19" pin="1"/>
+      <node ref="D21" pin="1"/>
+      <node ref="D17" pin="1"/>
+    </net>
+    <net code="25" name="N$15">
+      <node ref="SW15" pin="2"/>
+      <node ref="D15" pin="2"/>
+    </net>
+    <net code="26" name="N$16">
+      <node ref="SW16" pin="2"/>
+      <node ref="D16" pin="2"/>
+    </net>
+    <net code="27" name="N$17">
+      <node ref="SW17" pin="2"/>
+      <node ref="D17" pin="2"/>
+    </net>
+    <net code="28" name="N$18">
+      <node ref="D18" pin="2"/>
+      <node ref="SW18" pin="2"/>
+    </net>
+    <net code="29" name="N$19">
+      <node ref="D19" pin="2"/>
+      <node ref="SW19" pin="2"/>
+    </net>
+    <net code="30" name="N$20">
+      <node ref="SW20" pin="2"/>
+      <node ref="D20" pin="2"/>
+    </net>
+    <net code="31" name="N$21">
+      <node ref="SW21" pin="2"/>
+      <node ref="D21" pin="2"/>
+    </net>
+    <net code="32" name="ROW3">
+      <node ref="D23" pin="1"/>
+      <node ref="D28" pin="1"/>
+      <node ref="D26" pin="1"/>
+      <node ref="D25" pin="1"/>
+      <node ref="D24" pin="1"/>
+      <node ref="D22" pin="1"/>
+      <node ref="D27" pin="1"/>
+    </net>
+    <net code="33" name="N$22">
+      <node ref="SW22" pin="2"/>
+      <node ref="D22" pin="2"/>
+    </net>
+    <net code="34" name="N$23">
+      <node ref="SW23" pin="2"/>
+      <node ref="D23" pin="2"/>
+    </net>
+    <net code="35" name="N$24">
+      <node ref="D24" pin="2"/>
+      <node ref="SW24" pin="2"/>
+    </net>
+    <net code="36" name="N$25">
+      <node ref="D25" pin="2"/>
+      <node ref="SW25" pin="2"/>
+    </net>
+    <net code="37" name="N$26">
+      <node ref="D26" pin="2"/>
+      <node ref="SW26" pin="2"/>
+    </net>
+    <net code="38" name="N$27">
+      <node ref="D27" pin="2"/>
+      <node ref="SW27" pin="2"/>
+    </net>
+    <net code="39" name="N$28">
+      <node ref="SW28" pin="2"/>
+      <node ref="D28" pin="2"/>
+    </net>
+    <net code="40" name="ROW4">
+      <node ref="D30" pin="1"/>
+      <node ref="D32" pin="1"/>
+      <node ref="D33" pin="1"/>
+      <node ref="D31" pin="1"/>
+      <node ref="D29" pin="1"/>
+    </net>
+    <net code="41" name="N$29">
+      <node ref="SW29" pin="2"/>
+      <node ref="D29" pin="2"/>
+    </net>
+    <net code="42" name="N$30">
+      <node ref="SW30" pin="2"/>
+      <node ref="D30" pin="2"/>
+    </net>
+    <net code="43" name="N$31">
+      <node ref="D31" pin="2"/>
+      <node ref="SW31" pin="2"/>
+    </net>
+    <net code="44" name="N$32">
+      <node ref="SW32" pin="2"/>
+      <node ref="D32" pin="2"/>
+    </net>
+    <net code="45" name="N$33">
+      <node ref="SW33" pin="2"/>
+      <node ref="D33" pin="2"/>
+    </net>
+  </nets>
+</export>
