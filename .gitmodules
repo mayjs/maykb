@@ -7,3 +7,6 @@
 [submodule "CAD/Right/PCB/keyboard/libs/keyswitch-kicad-library"]
 	path = CAD/Right/PCB/keyboard/libs/keyswitch-kicad-library
 	url = ../keyswitch-kicad-library.git
+[submodule "CAD/mayscadlib"]
+	path = CAD/mayscadlib
+	url = ../mayscadlib.git
