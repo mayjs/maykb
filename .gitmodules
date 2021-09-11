@@ -10,3 +10,6 @@
 [submodule "CAD/mayscadlib"]
 	path = CAD/mayscadlib
 	url = ../mayscadlib.git
+[submodule "Software/stm32duino-bootloader"]
+	path = Software/stm32duino-bootloader
+	url = ../stm32duino-bootloader.git
