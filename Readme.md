@@ -1,5 +1,5 @@
 #  Maykb - a custom split keyboard for ISO-DE users
-Maykb is a split keyboard using a staggered ISO layout including the ISO-Enter.
+Maykb is a split keyboard using a staggered ISO layout including the ISO-Enter. Other features are one duplicated column in the middle (for people who don't always use the same finger for those middle keys) and the inclusion of an additional key left of the `h` which I use as a backspace key.
 
 ![Assembled Keyboard](Pictures/v1_assembled.jpg)
 
