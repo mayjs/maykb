@@ -24,7 +24,7 @@ This allows easy DFU flashing when you change the firmware.
 The bootloader can be entered by holding the top left key of each side or by holding down the bootloader key on the bottom side of the PCB.
 
 ## Construction
-The maybkb case is designed to be 3D-printed and design files are available as OpenSCAD code.
+The maykb case is designed to be 3D-printed and design files are available as OpenSCAD code.
 It should be easy to adjust the code to allow for different screw tolerances or even brass screw inserts.
 
 As a small novelty, the plates can be manufactured as aluminium PCBs (I had good results with JLCPCB), which is cheaper than all laser cutting services I was able to locate.
